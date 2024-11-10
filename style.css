@@ -155,7 +155,16 @@ section{
     color: white;
 
 }
+
+::-webkit-scrollbar{
+    width: 20px;
+    background-color: var(--background);
+}
+
+::-webkit-scrollbar-thumb{
+    background: linear-gradient(to bottom, #6cff52,#3ec5ff);
     
+}
 
 
 
