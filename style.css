@@ -16,6 +16,12 @@
 }
 
 body{
+    min-height: 100vh;
+    background-color: var(--background);
+    
+}
+
+nav{
     position: fixed;
     top: 0;
     width: 100%;
