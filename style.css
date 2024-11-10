@@ -268,8 +268,23 @@ section{
 
 }
 .box:hover{
-    border: ;
+    border: 3px solid rgb(100, 100, 100);
+
 }
+.box p{
+    opacity: 0.8;
+}
+
+.box h1{
+    font-size: 2em;
+}
+
+.box img{
+    min-width: 25px;
+    border-radius: 0.5em;
+}
+
+
 
 
 
